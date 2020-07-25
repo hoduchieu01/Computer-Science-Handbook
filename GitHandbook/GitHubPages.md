@@ -12,12 +12,20 @@ The content of GitHub Pages can be modified easily through GitHub repository.
 
 #### Step 3: In Settings, you will see GitHub Pages section.
 ![image](https://user-images.githubusercontent.com/23649434/88269834-f1e07500-ccfe-11ea-9b47-7bce430c27bb.png)
-<ul> In that section, you have 2 options
-  <li> Using Source</li>
-  <li> Using Jekyll theme </li>
-</ul>
+
+* In that section, you have 2 options
+  * Using Source
+  * Using Jekyll theme
+
 
 For using Source, click on <b>None</b> then choose <b>master branch</b> and your website will be published at yourusername.github.io/yourrepositoryname
+
+If you want to use Jekyll theme, you can choose in the <b>Theme Chooser</b> and there are serveral themes for you.
+GitHub Pages will create your website based on a Jekyll theme and your README.md file.
+
+![image](https://user-images.githubusercontent.com/23649434/88458305-3ca4ed00-ceb7-11ea-9a3b-70c1e4b6bb31.png)
+
+![image](https://user-images.githubusercontent.com/23649434/88458333-85f53c80-ceb7-11ea-90ef-88bd3a0e5295.png)
 
 <b>Tips</b>
 * If you need to create your porfolio website, you can set a name of repository as yourusername.github.io, then your website will be published at yourusername.github.io

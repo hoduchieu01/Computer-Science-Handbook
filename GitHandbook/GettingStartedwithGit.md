@@ -21,7 +21,8 @@ A repository, or Git project, encompasses the entire collection of files and fol
   
 Before you start using Git, you have to make it available on your computer.
 
-[Git Downloads](https://git-scm.com/downloads)
+[Download Git](https://git-scm.com/downloads)
+
 After installing, you can verify if Git is installed in your computer by using this command.
 
 ```git --version```
@@ -55,4 +56,4 @@ branches
 ```git push```: updates the remote repository with any commits made locally to a branch.
   
 ## REFERENCES
-[1]: [Git Handbook](https://guides.github.com/introduction/git-handbook/)
+[Git Handbook](https://guides.github.com/introduction/git-handbook/)

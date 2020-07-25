@@ -19,3 +19,12 @@ This is a guide that every one can use to learn about computer science.
 
 Computer Science Handbook is [MIT licensed](./LICENSE).
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-66102291-14"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-66102291-14');
+</script>

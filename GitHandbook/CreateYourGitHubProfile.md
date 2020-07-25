@@ -25,7 +25,7 @@ Commit your README changes and see your new GitHub Profile.
 
 ## Example
 
-Here is my [README.md](https://github.com/hoduchieu01/hoduchieu01) / [source code](https://github.com/hoduchieu01/hoduchieu01/blob/master/README.md). 
+Here is my [README.md](https://github.com/hoduchieu01/hoduchieu01) / [source code](https://raw.githubusercontent.com/hoduchieu01/hoduchieu01/master/README.md). 
 
 I use [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) to get dynamically generated GitHub stats. In my README.md, I customize my GitHub Readme Stats and you can use this by copying my source code and change the username in these links.
 

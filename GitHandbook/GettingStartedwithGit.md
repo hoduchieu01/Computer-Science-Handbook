@@ -17,61 +17,42 @@ A repository, or Git project, encompasses the entire collection of files and fol
 
 ## Get started on using Git
 
-<details>
-  <summary>
-    Getting Started - Installing Git
-  </summary>
-<br />
+### Getting Started - Installing Git
+  
 Before you start using Git, you have to make it available on your computer.
 
-- [Git Downloads](https://git-scm.com/downloads)
-- After installing, you can verify if Git is installed in your computer by using this command.
-        
-        git --version
-</details>
+[Git Downloads](https://git-scm.com/downloads)
+After installing, you can verify if Git is installed in your computer by using this command.
 
-<details>
-    <summary>
-        Basic Git Commands
-    </summary>
-<br />
+```git --version```
+
+### Basic Git Commands
+
 To use Git, developers should know how to use specific commands to create, change, copy and combine code. There commands can be used directly through command line or using an application such as GitHub Desktop (computer), GitKraken (computer) or Working Copy (mobile phone or tablet). 
 
 If you are a student, you can apply [GitHub Student Developer Pack](https://education.github.com/pack/) to have a free access to these tools.
 
 Here are some common commands for getting started with Git:
-  <ul>
-    <li>
-        <code>git init</code>: initializes a brand new Git repository and begins tracking an existing directory
-    </li>
-    <li>
-        <code>git clone</code>: creates a local copy of a project that already exists remotely <br>
-        Clone this project:
-        <code>git clone https://github.com/hoduchieu01/Computer-Science-Handbook.git </code>
-    </li>
-    <li>
-      <code>git add .</code>: stages a change and tracks changes to a developer's codebase
-    </li>
-    <li>
-      <code>git commit -m "message"</code>: saves the snapshot to the project history and completes the change-tracking process
-    </li>
-    <li>
-      <code>git status</code>: shows the status of changes
-    </li>
-    <li>
-      <code>git branch</code>: shows the branches being worked on locally
-    </li>
-    <li>
-      <code>git merge</code>: merges lines of development together, typically used to combine changes made on two distinct branches
-    </li>
-    <li>
-      <code>git pull</code>: updates the local line of development with updates from its remote counterpart
-    </li>
-    <li>
-      <code>git push</code>: updates the remote repository with any commits made locally to a branch.
-    </li>
-  </ul>
-</details>
 
+```git init```: initializes a brand new Git repository and begins tracking an existing directory
+
+```git clone```: creates a local copy of a project that already exists remotely 
+
+Clone this project: ```git clone https://github.com/hoduchieu01/Computer-Science-Handbook.git ```
+```git add .```: stages a change and tracks changes to a developer's codebase
+
+```git commit -m "message"```: saves the snapshot to the project history and completes the change-tracking process
+
+```git status```: shows the status of changes
+
+```git branch```: shows the branches being worked on locally
+
+```git merge```: merges lines of development together, typically used to combine changes made on two distinct 
+branches
+
+```git pull```: updates the local line of development with updates from its remote counterpart
+
+```git push```: updates the remote repository with any commits made locally to a branch.
+  
 ## REFERENCES
 [1]: [Git Handbook](https://guides.github.com/introduction/git-handbook/)

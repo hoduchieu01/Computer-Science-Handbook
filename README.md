@@ -7,6 +7,8 @@ This is a guide that every one can use to learn about computer science.
 ### Git Handbook 
 [Getting Started with Git](./GitHandbook/GettingStartedwithGit.md)
 
+[Create Your GitHub Profile](./GitHandbook/CreateYourGitHubProfile.md)
+
 [GitHub Pages](./GitHandbook/GitHubPages.md)
 
 ### Resources for Students

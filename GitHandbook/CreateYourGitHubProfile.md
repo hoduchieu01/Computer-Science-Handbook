@@ -29,4 +29,8 @@ Here is my [README.md](https://github.com/hoduchieu01/hoduchieu01) / [source cod
 
 I use [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) to get dynamically generated GitHub stats. In my README.md, I customize my GitHub Readme Stats and you can use this by copying my source code and change the username in these links.
 
+``` [![Ho Duc Hieu's github stats](https://github-readme-stats.vercel.app/api?username=hoduchieu01&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/hoduchieu01) ```
+
+``` [![Your name's github stats](https://github-readme-stats.vercel.app/api?username=yourusername&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/yourusername) ```
+
 If you want to customize your GitHub Readme Starts, please feel free to follow this guide [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats).

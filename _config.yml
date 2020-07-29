@@ -1,4 +1,6 @@
 theme: jekyll-theme-cayman
+title: Computer Science Handbook
+show_downloads: true
 plugins:
   - jekyll-relative-links
 relative_links:

@@ -13,6 +13,9 @@ This is a guide that every one can use to learn about computer science.
 
 [GitHub Pages](./GitHandbook/GitHubPages.md)
 
+### LaTeX
+[Getting Started with LaTeX](./LaTeX/GettingStartedwithLaTeX.md)
+
 ### Resources for Students
 
 [Resources for Students](./ResourcesForStudents/README.md)

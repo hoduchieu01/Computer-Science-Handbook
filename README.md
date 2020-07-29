@@ -4,7 +4,7 @@
 This is a guide that every one can use to learn about computer science.
 
 ## CONTENTS
-### Git Handbook 
+### Git Handbook
 [Getting Started with Git](./GitHandbook/GettingStartedwithGit.md)
 
 [Git Commands](./GitHandbook/GitCommands.md)

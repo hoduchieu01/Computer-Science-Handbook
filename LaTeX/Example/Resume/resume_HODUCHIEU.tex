@@ -1,0 +1,205 @@
+
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{multirow}
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[2]{
+  \item\small{
+    \textbf{#1}{#2 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheadTwo}[2]{
+  \vspace{-1pt}\item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2
+    \end{tabular*}\vspace{-5pt}
+}
+
+\newcommand{\resumeSmallSubheading}[1]{
+  \item
+    \textbf{#1}\vspace{-5pt}
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & \textbf{#2} \\
+      \textit{\small#3} & \textit{\small#4} \\
+    \end{tabular*}\vspace{-5pt}
+}
+
+\newcommand{\resumePoint}[2]{
+  \item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      #1 & \textbf{\small #2}
+    \end{tabular*}
+}
+
+\newcommand{\resumeSubItem}[2]{\resumeItem{#1}{#2}\vspace{-4pt}}
+
+\renewcommand{\labelitemii}{$\circ$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=*]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-------------------------------------------
+%%%%%%  CV STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document}
+
+%----------HEADING-----------------
+\begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+  \multirow{3}{*}{\textbf{\Huge{Ho Duc Hieu}}} & {\small Email: \texttt{\underline{\href{mailto:hoduchieu01@gmail.com}{hoduchieu01@gmail.com}}}}\\
+   & {\small Github: \texttt{\underline{\href{https://github.com/hoduchieu01}{hoduchieu01}}}} \\
+   & {\small Website: \texttt{\underline{\href{https://www.hoduchieu.tech/}{hoduchieu.tech}}}} \\
+   & {\small Mobile: +84 9 42 96 00 25} \\
+\end{tabular*}
+
+
+%-----------EDUCATION-----------------
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {HUS High School for Gifted Students}{Hanoi, Vietnam}
+      {Gifted class in Informatics}{Sep. 2016 – Jun. 2019} 
+  \resumeSubHeadingListEnd
+
+
+%-----------EXPERIENCE-----------------
+\section{Experience}
+  \resumeSubHeadingListStart
+
+    \resumeSubheading
+      {Open Source Education Bot, Facebook}{Remote Work}
+      {Core Maintainer}{Jun. 2020 – present}
+      \resumeItemListStart
+        \resumeItem{}
+          {Build out a Messenger open source training bot for Developer Circles under guidance and mentorship
+          from Facebook}
+        \resumeItem{}
+          {Collaborate with Facebook engineers to maintain the project, review pull requests, and manage issues}
+        \resumeItem{}
+          {Support and participate in Open Source Immersion initiative run by Facebook}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {Institute of Mathematics, Vietnam Academy of Science and Technology}{Hanoi, Vietnam}
+      {Student Researcher}{Jun. 2020 – present}
+      \resumeItemListStart
+      \resumeItem{}
+        {Research Project: \textit{Aircraft Type Recognition Based on Orthogonal Convex Hull and Machine Learning Models}}
+        \resumeItem{}
+        {Received a research grant to work as a student researcher under the supervision of Associate Professor
+        Phan ~ Thanh ~ An and conduct research on computational geometry and machine learning}
+        \resumeItem{}
+        {Hosted 4 scientific seminars on computational geometry and participated in graduate classes on convex optimization}  
+        \resumeItem{}
+        {Scholar of International Graduate Summer School 2020, accumulated knowledge on analysis, linear programming, algebra, optimization and practical for modelling}
+   
+        \resumeItemListEnd
+
+    \resumeSubheading
+      {2020 MOST GASE Global Talent Internship Program Artificial Intelligence}{Taipei, Taiwan}
+      {Virtual Internship}{Jun. 2020 – present}
+      \resumeItemListStart
+      \resumeItem{}
+        {Got selected by Ministry of Science and Technology, Taiwan to take a research internship under the
+        supervision of Distinguished Professor Jacky Baltes from National Taiwan Normal University}
+      \resumeItem{}
+        {Participated in all online activities including Orientation, Featured Speech: Artificial Intelligence and
+        Green Tech, Mandarin \& Culture Course A, Cultural Experience and complete 6 weekly work logs}
+      \resumeItemListEnd
+
+      \resumeSubheading
+      {Cinnamon AI Labs }{Hanoi, Vietnam}
+      {Internship}{Jan. 2018 – Aug. 2018}
+      \resumeItemListStart
+      \resumeItem{}
+        {Awarded Intelligence Fellows Program scholarship to join and complete an intensive AI training
+        program focusing on natural language processing and image processing by Cinnamon AI engineers and
+        2 AI expert lecturers}
+        \resumeItem{}
+        {Accumulated knowledge on computer vision, semantic segmentation, object recognition, lexical
+        analysis, information retrieval, name entity recognition, deep learning for text processing}
+      \resumeItemListEnd
+
+      \resumeSubheading
+      {Viettel Cyber Security, Viettel Group}{Hanoi, Vietnam}
+      {Internship}{Aug. 2017 – Dec. 2017}
+      \resumeItemListStart
+      \resumeItem{}
+        {Researched on machine learning to build an application in detecting wide-area botnet based on domain
+        name resolution data of network operator for early detecting DDoS attacks}
+        \resumeItem{}
+        {Deployed system for detecting malicious domain names using Python with 98\% accuracy on 2,000,000
+        domain names by using machine learning and deep learning}
+      \resumeItemListEnd
+
+  \resumeSubHeadingListEnd
+
+%-----------AWARDS----------
+\section{Achievements \& Awards}
+  \resumeSubHeadingListStart
+    \resumeSubheadTwo
+      {Publication}{}
+      \resumeItemListStart
+        \resumeItem{\textnormal{First author}, \“\textbf{Technical research of detection algorithmically generated malicious domain names
+        using machine learning methods}\”, \textit{\textnormal{Journal of Science and Technology on Information Security}} \textnormal{, vol. 7,
+        pp. 37-43, 2018.}}
+        \resumeItemListEnd
+    \resumeSubheadTwo
+      {Bronze medal of Best Potential Award in 2019 Asia-Pacific Youth Labor Trend Forum}{\textit{2019}}
+  
+    \resumeSubheadTwo
+      {Gold medal in Global Youth Leaders Summit 2019}{\textit{2019}}
+    
+    \resumeSubheadTwo
+      {1st prize in Vietnam National Student Science and Engineering Fair 2017-2018}{\textit{2019}}
+
+    \resumeSubheadTwo
+      {Top 20 highest scoring students in Google Code-in 2018}{\textit{2018}}
+    
+
+  \resumeSubHeadingListEnd
+\resumeSubHeadingListEnd
+\end{document}

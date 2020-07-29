@@ -30,4 +30,4 @@ Then you will get several files including(.aux, .fls, .log, .out, .pdf, ...)
 
 ![image](https://user-images.githubusercontent.com/23649434/88837622-959bba80-d202-11ea-8fe7-a240b4750868.png)
 
-You can run my [LaTeX Resume template](./LaTeX/Example/Resume/resume_HODUCHIEU.tex) in example folder and change this to create your Resume.
+You can run my [LaTeX Resume template](./Example/Resume/resume_HODUCHIEU.tex) in example folder and change this to create your Resume.

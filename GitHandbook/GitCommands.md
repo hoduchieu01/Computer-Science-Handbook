@@ -10,7 +10,7 @@ Firstly, you have to use `git remote -v` for managing set of tracked repositorie
 
 ```git checkout master```
 
-```git rebase upstream```
+```git rebase upstream/master```
 
 ```git push -f origin master```
 

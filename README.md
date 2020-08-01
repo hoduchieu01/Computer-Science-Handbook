@@ -22,4 +22,4 @@ This is a guide that every one can use to learn about computer science.
 
 ## LICENSE
 
-Computer Science Handbook is 
+Computer Science Handbook is [MIT licensed](./LICENSE).

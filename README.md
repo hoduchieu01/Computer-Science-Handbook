@@ -23,3 +23,5 @@ This is a guide that every one can use to learn about computer science.
 ## LICENSE
 
 Computer Science Handbook is [MIT licensed](./LICENSE).
+
+Computer Science Handbook documentation (e.g., .md files) is [Creative Commons licensed](./LICENSE-docs).

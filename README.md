@@ -25,4 +25,4 @@ This is a guide that every one can use to learn about computer science.
 Computer Science Handbook is [MIT licensed](./LICENSE).
 
 ## DONATION
-If you love what we're doing, we hope you'll consider supporting our work -- for just the cost of a cup of coffee. [Buy Me a Coffee](https://www.buymeacoffee.com/hoduchieu01)/[Paypal](http://paypal.me/hoduchieu01)
+If you love what we're doing, we hope you'll consider supporting our work - for just the cost of a cup of coffee. [Buy Me a Coffee](https://www.buymeacoffee.com/hoduchieu01)/[Paypal](http://paypal.me/hoduchieu01)

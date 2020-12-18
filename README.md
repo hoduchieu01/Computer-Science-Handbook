@@ -18,7 +18,7 @@ This is a guide that every one can use to learn about computer science.
 
 ### Resources for Students
 
-[Resources for Students](./ResourcesForStudents/README.md)
+[Coding Interview](./ResourcesForStudents/CodingInterview.md)
 
 ## LICENSE
 

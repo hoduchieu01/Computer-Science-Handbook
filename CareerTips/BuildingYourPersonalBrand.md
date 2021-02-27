@@ -39,7 +39,7 @@ people with ideas for long-term growth.
 
 ## Managing Your Brand
 
-There are five key elements to consider when managing your brand
+There are five key elements to consider when managing your brand.
 
 ### Perception
 <ul>

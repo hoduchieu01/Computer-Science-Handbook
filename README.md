@@ -9,12 +9,15 @@ This is a guide that every one can use to learn about computer science.
 
 [Git Commands](./GitHandbook/GitCommands.md)
 
-[Create Your GitHub Profile](./GitHandbook/CreateYourGitHubProfile.md)
+[Creating Your GitHub Profile](./GitHandbook/CreateYourGitHubProfile.md)
 
 [GitHub Pages](./GitHandbook/GitHubPages.md)
 
 ### LaTeX
 [Getting Started with LaTeX](./LaTeX/GettingStartedwithLaTeX.md)
+
+### Career Tips
+[Building your personal brand](./CareerTips/BuildingYourPersonalBrand.md)
 
 ### Resources for Students
 

@@ -8,7 +8,7 @@ Personal branding is the process by which we market ourselves to others. Think a
 
 ![image](https://user-images.githubusercontent.com/23649434/109392499-ab6f8a80-795f-11eb-9ee2-d547851d6eb2.png)
 
-## Identifying your strengths & values
+## Identifying your strengths & values and Writing a personal brand statement
 
 In order to identify your strengths and values, you have to spend time collecting information to understand how they influence your work. You can use these steps as a guide:
 

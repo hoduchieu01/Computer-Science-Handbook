@@ -8,7 +8,7 @@ Personal branding is the process by which we market ourselves to others. Think a
 
 ![image](https://user-images.githubusercontent.com/23649434/109392499-ab6f8a80-795f-11eb-9ee2-d547851d6eb2.png)
 
-## Identifying your strengths & values and Writing a personal brand statement
+## Identifying your strengths & values and writing a personal brand statement
 
 In order to identify your strengths and values, you have to spend time collecting information to understand how they influence your work. You can use these steps as a guide:
 
@@ -35,4 +35,18 @@ In order to identify your strengths and values, you have to spend time collectin
 empowering others to achieve their potential
 through creative and fun experiences. I’m also the
 go-to person for strategy planning and connecting
-people with ideas for long-term growth. 
+people with ideas for long-term growth.
+
+## Managing Your Brand
+
+There are five key elements to consider when managing your brand
+
+### Perception
+<ul>
+    <li>What is one strength that people say you have?</li>
+    <li>What is one strength would you want people to say about you?</li>
+    <li>What can you start/stop doing, to manage perceptions?</li>
+</ul>
+
+![image](https://user-images.githubusercontent.com/23649434/109395051-ac0f1d80-796d-11eb-8aff-8bb7894c59b5.png)
+

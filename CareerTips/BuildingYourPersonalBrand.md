@@ -50,3 +50,31 @@ There are five key elements to consider when managing your brand
 
 ![image](https://user-images.githubusercontent.com/23649434/109395051-ac0f1d80-796d-11eb-8aff-8bb7894c59b5.png)
 
+### Visibility
+<ul>
+    <li>How can you generate ways to increase your visibility?</li>
+    <li>What can you do to promote your work?</li>
+    <li>What can you do to bring your skills to life?</li>
+</ul>
+
+### Uniqueness
+<ul>
+    <li>How are you different from the person sitting next to you?</li>
+    <li>What is it about you that few people can duplicate?</li>
+    <li>How is this relevant to your audience?</li>
+</ul>
+
+### Packaging
+<ul>
+    <li>Are you dressing for who you want to be?</li>
+    <li>What does your workspace say about you?</li>
+    <li>How well do you communicate/present your ideas? </li>
+    <li>What other ways can your appearance help or hinder you?</li>
+</ul>
+
+### Relationships
+<ul>
+    <li>Who are your main stakeholders?</li>
+    <li>What is their preferred working style? </li>
+    <li>How can you expand your network?</li>
+</ul>

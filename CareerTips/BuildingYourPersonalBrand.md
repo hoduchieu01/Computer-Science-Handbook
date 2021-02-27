@@ -83,9 +83,10 @@ There are five key elements to consider when managing your brand.
 <ul>
     <li>Start thinking of yourself as a brand</li>
     <li>Audit your online presence</li>
-    <li>Build a personal website (If you are a developer, you can build your website with GitHub Pages by following this
+    <li>Build a personal website. If you are a developer, you can build your website with GitHub Pages by following this
 
-[tutorial](./GitHandbook/CreatingYourGitHubProfile.md). Otherwise, you can use services for non-coder to create your website such as wix.com, wordpress.com. Then, you should get a personal domain that is similar with other social network handle and easy to spell.
+[tutorial](https://cshandbook.hoduchieu.tech/GitHandbook/GitHubPages.html). 
+Otherwise, you can use services for non-coder to create your website such as wix.com, wordpress.com. Then, you should get a personal domain that is similar with other social network handle and easy to spell.
     </li>
     <li>Be purposeful in what you share</li>
     <li>Associate yourself with other strong brands</li>

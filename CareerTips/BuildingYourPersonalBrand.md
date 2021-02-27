@@ -1,6 +1,6 @@
 # Building Your Personal Brand
 
-This article includes my personal takeaways from inspiring presentations by Morgan Bell (Program Manager @Microsoft) and Laura Vieloma (Community Manager @Google) on the purpose of personal brand, and some tips for those who build a personal brand.
+This article includes my personal takeaways from inspiring presentations by Morgan Bell (Program Manager @Microsoft) and Googlers on the purpose of personal brand, and some tips for those who build a personal brand.
 
 ## What is personal brand?
 
@@ -8,11 +8,11 @@ Personal branding is the process by which we market ourselves to others. Think a
 
 ![image](https://user-images.githubusercontent.com/23649434/109392499-ab6f8a80-795f-11eb-9ee2-d547851d6eb2.png)
 
-## Identifying your Strengths & Values
+## Identifying your strengths & values 
 
-In order to identify your strengths and values, you have to spend time collecting information to understand how they influence your work. You can use these steps as a guide for identifying your strengths and values:
+In order to identify your strengths and values, you have to spend time collecting information to understand how they influence your work. You can use these steps as a guide:
 
-### Self-Reflection on Your Brand
+### Self-reflection on your brand
 <ul>
     <li>What is your superpower?</li>
     <li>What do you do better than anyone else?</li>
@@ -21,6 +21,17 @@ In order to identify your strengths and values, you have to spend time collectin
     <li>What energizes you or ignites you?</li>
     <li>What are your true passions?</li>
 </ul>
+
+### Writing a personal brand statement
+<ol>
+    <li>Review the words and phrases others have used to describe you, and that you like to see yourself as being.</li>
+    <li>Generate a list of descriptors that would accurately describe actions you are naturally good at, have learned to do well, and enjoy doing. Start with a core statement [ NAME ] is [ ________, ________, and ________]. 
+    </li>
+    <li>Add some color and a verb string (She is known for […]; She is the “go=to” person for [...])</li>
+    <li>Put it all together!</li>
+</ol>
+
+
 
 
 (Coming Soon)

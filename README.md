@@ -9,7 +9,7 @@ This is a guide that every one can use to learn about computer science.
 
 [Git Commands](./GitHandbook/GitCommands.md)
 
-[Creating Your GitHub Profile](./GitHandbook/CreateYourGitHubProfile.md)
+[Creating Your GitHub Profile](./GitHandbook/CreatingYourGitHubProfile.md)
 
 [GitHub Pages](./GitHandbook/GitHubPages.md)
 

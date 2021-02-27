@@ -80,3 +80,13 @@ There are five key elements to consider when managing your brand.
 </ul>
 
 ## Tips for creating and growing your brand
+<ul>
+    <li>Start thinking of yourself as a brand</li>
+    <li>Audit your online presence</li>
+    <li>Build a personal website (If you are a developer, you can build your website with GitHub Pages by following this
+
+[tutorial](https://cshandbook.hoduchieu.tech/GitHandbook/GitHubPages.html). Otherwise, you can use services for non-coder to create your website such as wix.com, wordpress.com.
+    </li>
+    <li>Be purposeful in what you share</li>
+    <li>Associate yourself with other strong brands</li>
+</ul>

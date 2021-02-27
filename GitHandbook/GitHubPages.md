@@ -7,10 +7,11 @@ The content of GitHub Pages can be modified easily through GitHub repository.
 ## This guide will help you to create your website.
 
 #### Step 1: You have to login to your account and create a new repository
-#### Step 2: To begin setting up your website, you have to go Settings 
+#### Step 2: Upload your source code to your new repository and this website will use <code> index.html</code> as a main page of your website. 
+#### Step 3: To begin setting up your website, you have to go Settings 
 ![image](https://user-images.githubusercontent.com/23649434/88269555-754d9680-ccfe-11ea-9822-6239c6e73b6f.png)
 
-#### Step 3: In Settings, you will see GitHub Pages section.
+#### Step 4: In Settings, you will see GitHub Pages section.
 ![image](https://user-images.githubusercontent.com/23649434/88269834-f1e07500-ccfe-11ea-9b47-7bce430c27bb.png)
 
 * In that section, you have 2 options
@@ -29,7 +30,7 @@ GitHub Pages will create your website based on a Jekyll theme and your README.md
 
 <b>Tips</b>
 * If you need to create your porfolio website, you can set a name of repository as yourusername.github.io, then your website will be published at yourusername.github.io
-* This website will use <code> index.html</code> as a main page of your website. 
+
 
 ## Using your custom domains
 Custom domain allow you to serve your site from your domain. 

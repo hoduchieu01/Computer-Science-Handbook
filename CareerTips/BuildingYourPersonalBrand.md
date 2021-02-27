@@ -6,4 +6,6 @@ This article includes my personal takeaways from inspiring presentations by Morg
 
 Personal branding is the process by which we market ourselves to others. Think about how you are perceived by others and how you want to be perceived. Your personal brand is the sum of the actions and perceptions that others have about you based on those actions. If you think you are awesome, but no one knows the quality of your work or if your perception of yourself is disconnected with reality in some other way, you don't have a meaningful personal brand.
 
+![image](https://user-images.githubusercontent.com/23649434/109392499-ab6f8a80-795f-11eb-9ee2-d547851d6eb2.png)
+
 (Coming Soon)

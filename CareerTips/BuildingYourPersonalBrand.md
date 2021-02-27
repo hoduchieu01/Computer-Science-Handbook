@@ -31,10 +31,8 @@ In order to identify your strengths and values, you have to spend time collectin
     <li>Put it all together!</li>
 </ol>
 
-#### Example
-```I am a relationship builder who cares about
+> Example: I am a relationship builder who cares about
 empowering others to achieve their potential
 through creative and fun experiences. I’m also the
 go-to person for strategy planning and connecting
-people with ideas for long-term growth. ```
-
+people with ideas for long-term growth. 

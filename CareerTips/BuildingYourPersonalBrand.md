@@ -1,6 +1,6 @@
 # Building Your Personal Brand
 
-### This article includes my personal takeaways from inspiring presentations by Morgan Bell (Program Manager @Microsoft) and Laura Vieloma (Community Manager @Google) on the purpose of personal brand, and some tips for those who build a personal brand.
+This article includes my personal takeaways from inspiring presentations by Morgan Bell (Program Manager @Microsoft) and Laura Vieloma (Community Manager @Google) on the purpose of personal brand, and some tips for those who build a personal brand.
 
 ## What is personal brand ?
 

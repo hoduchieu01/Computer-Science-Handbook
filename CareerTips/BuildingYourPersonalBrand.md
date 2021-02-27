@@ -1,2 +1,2 @@
-# Builing Your Personal Brand
+# Building Your Personal Brand
 

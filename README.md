@@ -17,7 +17,7 @@ This is a guide that every one can use to learn about computer science.
 [Getting Started with LaTeX](./LaTeX/GettingStartedwithLaTeX.md)
 
 ### Career Tips
-[Building your personal brand](./CareerTips/BuildingYourPersonalBrand.md)
+[Building Your Personal Brand](./CareerTips/BuildingYourPersonalBrand.md)
 
 ### Resources for Students
 

@@ -26,3 +26,7 @@ When you are engaged in programming or get a job in this field after graduation,
         e.g CountFooErrors()
     </li>
 </ul>
+
+### Comments
+Comments are absolutely vital to keeping our code readable. Although comments are very important, the best code is self-documenting. Thus, giving sensible names to types and variables is much better than using obscure names that you must then explain through comments.
+

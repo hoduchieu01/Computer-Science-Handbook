@@ -27,6 +27,6 @@ This is a guide that every one can use to learn about computer science.
 
 [Coding Interview](./ResourcesForStudents/CodingInterview.md)
 
-## LICENSE
+## License
 
 Computer Science Handbook is [MIT licensed](./LICENSE).

@@ -1,4 +1,4 @@
-# Naming and Styling Rules 
+# Naming and Styling Rules
 
 When you are engaged in programming or get a job in this field after graduation, it is not possible to just freely write program and you have to follow some naming and styling rules that optimize for readability using names that would be clear even to people on a different team. Because each company has different naming and styling rules, so I will cover simple rules for naming and styling rules in this article.
 

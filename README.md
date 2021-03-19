@@ -4,8 +4,6 @@
 This is a guide that every one can use to learn about computer science.
 
 ## CONTENTS
-###
-
 
 ### Career Tips
 [Building Your Personal Brand](./CareerTips/BuildingYourPersonalBrand.md)
